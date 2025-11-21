@@ -4,7 +4,7 @@ Prosjektet innebærer å lage en oversikt over dette i både GitLab og Overleaf.
 
 Medlemmer i gruppa:
 
-[Alvar Aasgaard](.github/blob/main/profile/wiki/alvar.md)
+[Alvar Aasgaard](wiki/alvar.md)
 
 [Christian Hauren]()
 
