@@ -6,10 +6,10 @@ Medlemmer i gruppa:
 
 [Alvar Aasgaard](wiki/alvar.md)
 
-[Christian Hauren]()
+[Christian Hauren](wiki/christian.md)
 
-[Erik Schieldrop]()
+[Erik Schieldrop](wiki/erik.md)
 
-[Robin Kleppe]()
+[Robin Kleppe](wiki/robin.md)
 
-[Sander Clausen]()
+[Sander Clausen](wiki/sander.md)
